@@ -37,5 +37,5 @@ System.out.println("Texto"); // Exibe o texto e adiciona uma quebra de linha no 
 - `\"` → Para exibir aspas dentro de uma `String`  
 - `\\` → Para exibir uma barra invertida  
 
-Visite o arquivo da oracle para todas a convenções de código: [codecoventions](https://www.oracle.com/docs/tech/java/codeconventions.pdf)
+Visite o arquivo da oracle para todas a convenções de código: [Code Conventions](https://www.oracle.com/docs/tech/java/codeconventions.pdf)
 
